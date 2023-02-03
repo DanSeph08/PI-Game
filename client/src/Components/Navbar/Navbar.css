@@ -1,0 +1,33 @@
+.Nav {
+    text-decoration: none;
+}
+
+#NavId {
+    position: absolute;
+    margin-top: 65px;
+    margin-left: 70px;
+}
+
+.Nav1 {
+    border: 2px solid rgb(219, 219, 228);
+    color: #000;
+    margin-right: 10px;
+    padding: 4px;
+    border-radius: 10px;
+}
+
+.Nav2 {
+    border: 2px solid rgb(219, 219, 228);
+    color: #000;
+    margin-right: 10px;
+    padding: 4px;
+    border-radius: 10px;
+}
+
+.Nav3 {
+    border: 2px solid rgb(219, 219, 228);
+    color: #000;
+    margin-right: 10px;
+    padding: 4px;
+    border-radius: 10px;
+}

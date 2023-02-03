@@ -1,0 +1,151 @@
+.TitleForm {
+    font-size: 4em;
+    color: aliceblue;
+    text-shadow: -5px -5px 3px #000;
+    margin-bottom: 10px;
+}
+
+.Name{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    margin-top: 150px;
+    margin-left: 40px;
+}
+
+.FormName {
+    font-size: 22px;
+    color: aliceblue;
+    text-shadow: -5px -5px 3px #000;
+}
+
+#FormButName {
+    border-radius: 5px;
+}
+
+.Descr {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    margin-top: 190px;
+    margin-left: 255px;
+}
+
+.FormDescrip {
+    font-size: 22px;
+    color: aliceblue;
+    text-shadow: -5px -5px 3px #000;
+}
+
+#FormButDescrip {
+    border-radius: 5px;
+}
+
+.Date {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    margin-top: 190px;
+    margin-left: 925px;
+}
+
+.FormDate {
+    font-size: 22px;
+    color: aliceblue;
+    text-shadow: -5px -5px 3px #000;
+}
+
+#FormButDate {
+    border-radius: 5px;
+}
+
+.Rat {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    margin-top: 190px;
+    margin-left: 645px;
+}
+
+.FormRating {
+    font-size: 22px;
+    color: aliceblue;
+    text-shadow: -5px -5px 3px #000;
+}
+
+#FormButRating {
+    border-radius: 5px;
+}
+
+.Img {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    margin-top: 150px;
+    margin-left: 720px;
+    margin-left: 1065px;
+}
+
+.FormImg {
+    font-size: 22px;
+    color: aliceblue;
+    text-shadow: -5px -5px 3px #000;
+}
+
+#FormButImg {
+    border-radius: 5px;
+}
+
+.Genres {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    margin-top: 190px;
+    margin-left: 465px;
+    width: 150px;
+}
+
+.FormGenre {
+    font-size: 22px;
+    color: aliceblue;
+    text-shadow: -5px -5px 3px #000;
+}
+
+#FormButGenre {
+    border-radius: 5px;
+}
+
+.Platf {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    margin-top: 190px;
+    margin-left: 740px;
+    width: 150px;
+}
+.FormPlatf {
+    font-size: 22px;
+    color: aliceblue;
+    text-shadow: -5px -5px 3px #000;
+}
+
+#FormButPlatf {
+    border-radius: 5px;
+}
+
+.ButSubmit {
+    margin-top: 350px;
+    border-radius: 5px;
+    border: 2px solid #004;
+    padding: 3px;
+    font-size: 20px;
+    color: #004;
+
+}
+
+.ButSubmit:hover {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: #004;
+    cursor: pointer;
+}

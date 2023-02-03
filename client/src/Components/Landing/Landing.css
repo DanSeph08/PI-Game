@@ -1,0 +1,52 @@
+.Landing {
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 5em;
+    text-decoration: none;
+    margin: 15px;
+}
+
+.Title {
+    text-shadow: -5px -5px 3px #000;
+    padding: 0.5em;
+}
+
+.Games {   
+    text-shadow: -5px -5px 3px #000;
+    margin: 35vh 5vw 0 5vw;
+}
+
+.Buttom {
+    border: 2px solid #004;
+    font-size: 20px;
+    color: #004;
+    text-decoration: none;
+}
+
+.Buttom:link, .Buttom:visited, .Buttom:active {
+    text-decoration-line: none;
+}
+
+.Buttom :hover{
+    color: #004;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.PI{
+    position: absolute;
+    margin-top: 800px;
+
+    
+}
+
+.Author {
+    font-size: 18px;
+    color:aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: -5px -5px 2px #000;
+    position: absolute;
+    margin-top: 70px;
+}

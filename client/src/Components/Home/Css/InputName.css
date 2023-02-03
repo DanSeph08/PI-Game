@@ -1,0 +1,36 @@
+.InputName {
+    padding-right: 60px;
+}
+
+.TitleLabel {
+    font-size: 22px;
+    color: aliceblue;
+    text-shadow: -5px -5px 3px #000;
+}
+
+.Input {
+    border-radius: 10px;
+    padding: 4px;
+}
+
+.Butt {
+    margin-left: 5px;
+    border: 2px solid rgb(219, 219, 228);
+    color: rgb(97, 19, 121);
+    padding: 4px;
+    border-radius: 10px;
+    text-decoration: underline;
+}
+.Butt:hover{
+    cursor: pointer;
+}
+.Ul {
+
+}
+.Li {
+    
+}
+
+.Name {
+
+}

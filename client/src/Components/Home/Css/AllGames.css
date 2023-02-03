@@ -1,0 +1,15 @@
+.All {
+    padding-right: 100px;
+}
+
+.But {
+    border: 2px solid rgb(219, 219, 228);
+    color: rgb(97, 19, 121);
+    padding: 4px;
+    border-radius: 10px;
+    text-decoration: underline;
+}
+
+.But:hover {
+    cursor: pointer;
+}

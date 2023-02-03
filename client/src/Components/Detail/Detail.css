@@ -1,0 +1,49 @@
+.Conta {
+    height: 100vh;
+}
+
+.DetailTitle {
+    margin-top: 8px;
+    margin-bottom: 10px;
+    font-size: 3.5em;
+    color: aliceblue;
+    text-shadow: -5px -5px 3px #000;
+}
+
+.DetailName {
+    margin-top: 10px;
+    margin-bottom: 8px;
+    font-size: 22px;
+    color: #000;
+    text-shadow: -5px -5px 3px aliceblue;
+}
+
+.DetailImg {
+    margin-top: 5px;
+    margin-bottom: 8px;
+    border-radius: 8px;
+    box-shadow: -8px 8px 8px 0 rgb(92, 92, 92); 
+}
+
+.DetailDescr {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    width: 550px;
+    margin-left: 25em;
+    background-color: rgba(221, 221, 221, 0.466);
+}
+
+.DetailDate {
+    margin-top: 8px;
+    margin-bottom: 7px;
+}
+
+.DetailRating {
+    margin-top: 8px;
+    margin-bottom: 7px;
+}
+
+.DetailPlatf {
+    margin-top: 8px;
+    margin-bottom: 10px;
+}
